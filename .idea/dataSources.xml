@@ -22,6 +22,27 @@
       <user-name>testing_app</user-name>
       <libraries />
     </data-source>
+    <data-source source="LOCAL" name="Rails builder_fitness: development" uuid="06b0e27a-5d45-4f93-8d5a-22ede1192655">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:builder_fitness_development</jdbc-url>
+      <user-name>aleroy</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails builder_fitness: test" uuid="2eaf3bad-77b2-4ba1-91d2-52f7c0801d02">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:builder_fitness_test</jdbc-url>
+      <user-name>aleroy</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails builder_fitness: production" uuid="d62fbe34-602f-4ed4-9978-14e75a263d10">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:builder_fitness_production</jdbc-url>
+      <user-name>builder_fitness</user-name>
+      <libraries />
+    </data-source>
   </component>
 </project>
 

@@ -34,6 +34,10 @@ end
 gem 'bootstrap-sass'
 gem 'sprockets'
 
+gem 'faker'
+
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 # Use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.1.2'
